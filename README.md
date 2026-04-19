@@ -27,6 +27,9 @@ Storage:    Can shift to another DB like SQLite or some other if large records
 
 
 <h2>ARCHITECTURE</h2>
+
+<img width="1509" height="2145" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/82ed241b-8a7d-472f-aa54-1cb931d6c481" />
+
                                                                                    
                                                                                                                                                                           
                                 ┌─────────┐                                                                                                                               
