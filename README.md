@@ -5,7 +5,7 @@ MVP: A RAG-powered analyst trapped inside WhatsApp, extracting risks, EBITDA dri
 
 <h2>Tech Stack:</h2>
 
-AI Tools:   Ollama(Claude Code alternate), Github Copilot
+AI Tools:   Ollama:Minimax(Claude Code alternate), Github Copilot
 
 Storage:    In the future, another SQL DB for can be used for scalability
 
