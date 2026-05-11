@@ -7,7 +7,7 @@ A RAG-powered analyst trapped inside WhatsApp, extracting risks, EBITDA drivers,
 
 AI Tools:   Ollama:Minimax(Claude Code alternate), Github Copilot
 
-Storage:    In the future, another SQL DB for can be used for scalability
+Storage:    In the future, another DB for can be used for scalability
 
 
 | Storage       | Used For                  | Why JSON / Format                     |
